@@ -215,6 +215,6 @@ I’m interested in working on:
 
 ## 📫 Let's Connect
 
-* 💼 Upwork: [My Upwork Profile](YOUR_UPWORK_PROFILE_LINK)
-* 💻 GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-* 📧 Email: YOUR_EMAIL
+* 💼 Upwork: https://www.upwork.com/freelancers/~015d680110bc7004ee
+* 💻 GitHub: https://github.com/OlegPidgaeckiy
+* 📧 Email: olegpidgaetskiy@gmail.com
