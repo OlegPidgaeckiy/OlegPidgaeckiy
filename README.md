@@ -76,21 +76,23 @@ I enjoy turning ideas and designs into clean, functional products and building a
 
 ### 🛒 E-Commerce Application
 
-A modern e-commerce application focused on creating a smooth shopping experience with a responsive interface and reusable components.
+A bright, modern e-commerce storefront with a responsive interface and reusable typed components. Products and categories are loaded live from a public REST API, so no backend or API key is needed.
 
-**Tech:** React · TypeScript · Redux · REST API
+Tech: React · TypeScript · Vite · REST API (DummyJSON) · Lucide React · CSS
 
-**Features:**
+Features:
 
-* Product catalog
-* Search and filtering
-* Shopping cart
-* API integration
-* State management
-* Responsive UI
-* Reusable components
+- Product catalog loaded from the API
+- Live search by title, brand and category
+- Category filtering
+- Sorting by featured, top rated and price
+- Shopping cart drawer with quantity controls, item removal and subtotal
+- Favorites with a header counter, saved between sessions in localStorage
+- Loading skeletons, error state with retry and empty-results state
+- Responsive layout with a mobile menu and a floating cart button
+- Reusable, fully typed components with state managed through React hooks
 
-[View Repository](YOUR_REPOSITORY_LINK)
+[View Repository](https://github.com/OlegPidgaeckiy/e-commerce-website)
 
 ---
 
