@@ -93,46 +93,59 @@ Features:
 - Reusable, fully typed components with state managed through React hooks
 
 [View Repository](https://github.com/OlegPidgaeckiy/e-commerce-website)
+
+[View Website](https://e-commerce-web-application-eta.vercel.app/)
+
+---
+
+### 🌲 All for Home
+
+A warm, modern storefront for handcrafted, eco-friendly home decor with a responsive interface and reusable components. Everything runs in the browser, so no backend or API key is needed.
+
+Tech: React · Vite · Tailwind CSS · Framer Motion · Lucide React
+
+Features:
+
+- Product catalog with live search and category filtering
+- Quick View modal with materials, dimensions, stock and tags
+- Shopping cart drawer with quantity controls, subtotal and free-shipping progress bar
+- Wishlist drawer with a header counter
+- Room Style Quiz with product recommendations
+- Demo checkout with order confirmation
+- Countdown banner, reviews, FAQ accordion and newsletter signup
+- Empty-results state, image fallbacks and toast notifications
+- Responsive layout with a mobile menu
+- State managed through custom React hooks
+
+[View Repository](https://github.com/OlegPidgaeckiy/All-for-home)
+
 [View Website]()
 
 ---
 
-### 📊 Full Stack Dashboard
+### 📰 WorldBrief
 
-A full-stack dashboard for managing application data through a modern and responsive interface.
+A modern, responsive news portal with a clean editorial interface and reusable typed components. Articles are loaded live from NewsAPI, so a free API key is needed.
 
-**Tech:** Next.js · TypeScript · Node.js · PostgreSQL
+Tech: React · TypeScript · Vite · Tailwind CSS · React Router · Axios · Lucide React · NewsAPI
 
-**Features:**
+Features:
 
-* Authentication
-* CRUD operations
-* REST API
-* Database integration
-* Data management
-* Responsive dashboard
-* Reusable UI components
+- Live news feed loaded from the API with short-term response caching
+- Browsing by category: World, Politics, Business, Technology, Science, Health, Sports, Entertainment
+- Keyword search across articles
+- Article page with a link to the original publisher
+- Favorites saved between sessions in localStorage
+- Light and dark themes
+- Share article links with a copy-to-clipboard fallback
+- Loading skeletons, error states and empty-results state
+- News refresh and missing-image fallbacks
+- Responsive layout with a mobile menu
+- Client-side routing, global state through React Context and hooks
 
-[View Repository](YOUR_REPOSITORY_LINK)
+[View Repository](https://github.com/Vitalik-444/Worldbrief-news-portal)
 
----
-
-### 🌐 Modern Business Website
-
-A responsive web application built from a modern UI design with a focus on clean architecture, usability and responsive behavior.
-
-**Tech:** Next.js · TypeScript · CSS
-
-**Features:**
-
-* Responsive design
-* Figma implementation
-* Reusable components
-* Mobile-friendly UI
-* SEO-friendly structure
-* Performance-focused development
-
-[View Repository](YOUR_REPOSITORY_LINK)
+[View Website]()
 
 ---
 
