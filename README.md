@@ -147,7 +147,7 @@ Features:
 
 ---
 
-### Furniture E-Commerce Store
+### 🛋️ Furniture E-Commerce Store
 
 A calm, editorial furniture storefront with a responsive interface and reusable typed components. Products come from a local demo catalogue, so no backend or API key is needed.
 
