@@ -119,7 +119,7 @@ Features:
 
 [View Repository](https://github.com/OlegPidgaeckiy/All-for-home)
 
-[View Website]()
+[View Website](https://all-for-homes.vercel.app/)
 
 ---
 
@@ -143,11 +143,31 @@ Features:
 - Responsive layout with a mobile menu
 - Client-side routing, global state through React Context and hooks
 
-[View Repository](https://github.com/Vitalik-444/Worldbrief-news-portal)
-
-[View Website]()
+[View Repository](https://github.com/OlegPidgaeckiy/News-platform)
 
 ---
+
+### Furniture E-Commerce Store
+
+A calm, editorial furniture storefront with a responsive interface and reusable typed components. Products come from a local demo catalogue, so no backend or API key is needed.
+
+Tech: React · TypeScript · Vite · Tailwind CSS · React Router · Lucide React
+
+Features:
+
+- Product catalog with sale and "new" badges
+- Live search by name, material, color and keywords
+- Filtering by category, price range, material, color, availability and sale items
+- Sorting by featured, newest, price and name
+- Product pages with image gallery, related products and stock states
+- Shopping bag with quantity controls, item removal and subtotal
+- Wishlist with a header counter, saved between sessions in localStorage
+- Validated demo checkout with delivery options and order confirmation
+- Empty states, toast notifications and a custom 404 page
+- Responsive layout with a mobile menu and a full-screen mobile filter panel
+- Reusable, fully typed components with state managed through React Context
+
+[View Repository]()
 
 ## 🧠 Development Approach
 
