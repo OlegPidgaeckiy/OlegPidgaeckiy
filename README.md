@@ -167,7 +167,9 @@ Features:
 - Responsive layout with a mobile menu and a full-screen mobile filter panel
 - Reusable, fully typed components with state managed through React Context
 
-[View Repository]()
+[View Repository](https://github.com/OlegPidgaeckiy/Nordhome-furniture.git)
+
+[View Website](https://furniture-store-web-application-9xp.vercel.app/)
 
 ## 🧠 Development Approach
 
